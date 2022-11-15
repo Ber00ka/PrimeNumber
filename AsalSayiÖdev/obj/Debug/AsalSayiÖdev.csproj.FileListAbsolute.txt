@@ -1,0 +1,11 @@
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\bin\Debug\AsalSayiÖdev.exe.config
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\bin\Debug\AsalSayiÖdev.exe
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\bin\Debug\AsalSayiÖdev.pdb
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\obj\Debug\AsalSayiÖdev.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\obj\Debug\AsalSayiÖdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\obj\Debug\AsalSayiÖdev.Form1.resources
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\obj\Debug\AsalSayiÖdev.Properties.Resources.resources
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\obj\Debug\AsalSayiÖdev.csproj.GenerateResource.cache
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\obj\Debug\AsalSayiÖdev.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\obj\Debug\AsalSayiÖdev.exe
+C:\Users\berka\OneDrive\Masaüstü\NYP Ödevler\AsalSayiBulma\AsalSayiÖdev\AsalSayiÖdev\obj\Debug\AsalSayiÖdev.pdb
